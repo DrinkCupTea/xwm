@@ -1,3 +1,5 @@
 .vscode/
 .cache/
 build/
+
+include/config.h
